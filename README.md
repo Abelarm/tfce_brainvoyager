@@ -1,5 +1,5 @@
 # tfce_brainvoyager
-A plugin for BrainVoyager that implements the TFCE tecnicque.
+A plugin for BrainVoyager that implements the TFCE technique.
 
 This repository consists of various implementations of the TFCE algorithm, (for now) without permutation testing.
 
